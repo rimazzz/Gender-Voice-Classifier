@@ -7,5 +7,5 @@ A machine learning model that classifies voice samples as male or female using a
 - **Feature Extraction** uses Librosa to extract features 
 -  **Model** Gaussian Naive Bayes Classifier
 
-## Download Datatset
+## Datatset
 https://drive.google.com/drive/folders/1fI6-x1cZmfgYpviyvncff3v5sHLP_7bR?usp=drive_link
