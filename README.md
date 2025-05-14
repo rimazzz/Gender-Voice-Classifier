@@ -15,7 +15,7 @@ A machine learning project that classifies voice samples as male or female using
 
 - Handles edge cases (zero variance, array shapes)
 
-    🛠️ **Advanced Techniques**:
+🛠️ **Advanced Techniques**:
 
 - Custom Bagging Ensemble with resampling
 
